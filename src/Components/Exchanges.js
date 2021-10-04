@@ -1,11 +1,11 @@
 import React from 'react';
 
-const App = () => {
+const Exchanges = () => {
   return (
     <div>
-      <h1>Cryptoverse</h1>
+      Exchanges
     </div>
   );
 };
 
-export default App;
+export default Exchanges;
