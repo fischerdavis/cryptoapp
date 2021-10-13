@@ -1,7 +1,7 @@
 # Cryptoverse
 Cryptoverse is a react application that gathers information regarding crypto currencies by using Bing Search API for news regarding crypto currencies, and Coinranking API to gather information about the coins. This web application displays news about the coins as well as current pricing information, and more indepth details about each coin.
 
-# Tech I learned to use in this project
+# Tech I learned about in this project
 - Redux Toolkit
 - Antd
 - Moment
